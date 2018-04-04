@@ -1,0 +1,6 @@
+from_dir: /Users/imanassy/Documents/Python/move_files/fromdir/
+to_dir: /Users/imanassy/Documents/Python/move_files/todir/
+src_files:
+  - from_file_a.txt
+  - from_file_b.txt
+date_format: "%Y%m%d"
